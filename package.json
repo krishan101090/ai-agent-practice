@@ -1,0 +1,13 @@
+{
+  "name": "ai-agent-practice",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "chat": "ts-node src/run.ts"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4",
+    "@types/node": "^20.14.0"
+  }
+}
